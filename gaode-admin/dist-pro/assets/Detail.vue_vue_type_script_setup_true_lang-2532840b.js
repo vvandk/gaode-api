@@ -1,0 +1,1 @@
+import{D as a}from"./Descriptions-92b0e991.js";import{e,o as t,l as s,k as r}from"./index-dc787e95.js";const o=e({__name:"Detail",props:{currentRow:{type:Object,default:()=>null},detailSchema:{type:Array,default:()=>[]}},setup:e=>(o,l)=>(t(),s(r(a),{schema:e.detailSchema,data:e.currentRow||{}},null,8,["schema","data"]))});export{o as _};
